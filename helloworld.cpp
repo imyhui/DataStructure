@@ -2,6 +2,6 @@
 
 int main()
 {
-    cout<<ERROR<<endl;
+    cout<<OVERFLOW<<endl;
     return 0;
 }

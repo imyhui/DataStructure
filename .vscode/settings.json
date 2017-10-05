@@ -34,6 +34,10 @@
     "files.associations": {
         "ostream": "cpp",
         "algorithm": "cpp",
-        "cstdio": "cpp"
+        "cstdio": "cpp",
+        "string_view": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp"
     }
 }

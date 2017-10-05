@@ -15,8 +15,10 @@ typedef int Boolean; // Boolean是布尔类型,其值是TRUE或FALSE
 #include<stdio.h> // EOF(=^Z或F6),NULL
 #include<stdlib.h> // atoi()
 #include<io.h> // eof()
-#include<math.h> // floor(),ceil(),abs()
+#include<cmath> // floor(),ceil(),abs()
 #include<process.h> // exit()
 #include<iostream> // cout,cin
 // namespace
 using namespace std;
+//cpp all headers
+//#include<bits/stdc++.h>
